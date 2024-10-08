@@ -28,6 +28,13 @@
     "street": "No 1",
     "country": "India",
   }
+    "age": 25,
+  "mobile": [9999999, 1000000],
+  "graduated": true,
+  "address": {
+    "street": "No 1",
+    "country": "India",
+  }
 }
   "lastName": "Doe",
   "age": 25,
